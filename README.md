@@ -3,13 +3,13 @@
 **Pflegegrad nach NBA berechnen — interaktives Lerntool für die Pflegeausbildung, basierend auf Anlage 1 zu § 15 SGB XI**
 
 [![Lizenz: CC BY-NC-SA 4.0](https://img.shields.io/badge/Lizenz-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue)](https://florianloyns.github.io/pflegegrad/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue)](https://florianloyns.github.io/pflegegrad-rechner/)
 ![Keine Abhängigkeiten](https://img.shields.io/badge/Abh%C3%A4ngigkeiten-keine-brightgreen)
 ![PWA](https://img.shields.io/badge/PWA-offline--f%C3%A4hig-teal)
 
 Eine browser-basierte App für Pflege-Auszubildende: Sechs NBA-Module bewerten, Pflegegrad live mitsehen. Keine Anmeldung, keine Datenübertragung, läuft offline auch nach „Zum Homescreen hinzufügen".
 
-**[Jetzt rechnen](https://florianloyns.github.io/pflegegrad/)**
+**[Jetzt rechnen](https://florianloyns.github.io/pflegegrad-rechner/)**
 
 ## Was die App rechnet
 
