@@ -1,0 +1,13 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pflegegrad-Rechner">
+  <!-- Teal-Hintergrund -->
+  <rect width="512" height="512" fill="#0d7377"/>
+
+  <!-- Fünf aufsteigende Pillen (Pflegegrad 1 bis 5) -->
+  <g fill="white">
+    <rect x="128" y="296" width="40" height="80"  rx="20"/>
+    <rect x="182" y="256" width="40" height="120" rx="20"/>
+    <rect x="236" y="216" width="40" height="160" rx="20"/>
+    <rect x="290" y="176" width="40" height="200" rx="20"/>
+    <rect x="344" y="136" width="40" height="240" rx="20"/>
+  </g>
+</svg>
